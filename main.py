@@ -14,5 +14,5 @@ async def on_message(msg):
     if msg.content.startswith('.pydoc'):
         await msg.channel.send('Test 1')
 
-client.run('NzU4MTA3NjM3MDY0NjYzMDQz.X2qIwQ.KeVefjnsfNEilXaPKMlzmj4t-CY')
+client.run('token aqui cuando lo corras, no subir gg')
 
